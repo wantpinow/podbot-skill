@@ -106,4 +106,3 @@ podbot episodes search "healthcare admin AI" --json --limit 20 | jq '.[] | {slug
 ## Scope
 
 The index is heavy on tech, VC, startups, and macro/business. Use `podbot feeds list` to see what's currently indexed. The index is NOT comprehensive for non-tech topics (sports, politics, culture, science outside AI/bio). For those, say so rather than synthesizing from thin signal.
-<!-- drift test -->
